@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="d3b80736-ca6e-0bb1-1f52-80c0d1159ad8"/>
+            <attribute id="Name" type="LSString" value="DedTunedMulticlass"/>
+            <attribute id="UUID" type="LSString" value="8acf087d-e14c-feeb-5f94-7337e408e078"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>
